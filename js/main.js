@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-// Write all your javascript code in this file
-=======
 // document.querySelector('#enviar-carta').onclick = function(){
 //     console.log(document.formulario.nombre.value);
 //     console.log(document.formulario.provincia.value);
@@ -78,4 +75,3 @@ function manejarErrores(errores) {
 }
 const $form = document.formulario;
 document.formulario.onsubmit = validarForm;
->>>>>>> Stashed changes
